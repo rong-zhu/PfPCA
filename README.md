@@ -1,5 +1,5 @@
 # PfPCA
-PfPCA is a R code for functional principal component analysis (Pf-PCA). This method identifies the structure of systematic tuning fluctuations directly from neural spiking data, moreover encompassing several current models (e.g.,multiplicative gain models) as special cases. The proposed analysis tool is broadly applicable to other low-dimensional tuning modalities.
+PfPCA is a R code for functional principal component analysis (Pf-PCA). This method identifies the structure of systematic tuning fluctuations directly from neural spiking data, moreover encompassing several current models (e.g.,multiplicative gain models) as special cases. The proposed analysis tool is broadly applicable to low-dimensional tuning modalities.
 
 
 # details
